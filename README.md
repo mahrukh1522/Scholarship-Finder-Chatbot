@@ -1,7 +1,7 @@
-🎓 AI Scholarship Finder Chatbot
+#🎓 AI Scholarship Finder Chatbot
 
 
-📌 Overview
+#📌 Overview
 
 This project is an AI-based Scholarship Finder Chatbot built using Python and Streamlit.  
 It helps students discover scholarships, eligibility criteria, and application guidance using scraped and structured online data.
@@ -9,7 +9,7 @@ It helps students discover scholarships, eligibility criteria, and application g
 The chatbot collects information from scholarship and educational websites and provides relevant answers based on user queries.
 
 
-🚀 Features
+#🚀 Features
 
 🌐 Web scraping of scholarship opportunities from trusted sources  
 🎓 Scholarship recommendations based on user queries  
@@ -19,7 +19,7 @@ The chatbot collects information from scholarship and educational websites and p
 🎯 Helps students find local and international scholarships  
 
 
-🧠 Technologies Used
+#🧠 Technologies Used
 
 Python 🐍  
 Streamlit  
@@ -28,7 +28,7 @@ Requests
 Regular Expressions (re)  
 
 
-📁 Project Structure
+#📁 Project Structure
 
 AI-Scholarship-Finder-Chatbot/
 
@@ -43,30 +43,30 @@ AI-Scholarship-Finder-Chatbot/
 ├── README.md           # Project documentation  
 
 
-⚙️ How It Works
+#⚙️ How It Works
 
 
-📥 Data Collection
+#📥 Data Collection
 
 Scrapes scholarship-related websites  
 Extracts key details like eligibility, country, and field  
 Stores cleaned data in training_data.txt  
 
 
-⚙️ Processing
+#⚙️ Processing
 
 Splits text into sentences  
 Matches user input with dataset keywords  
 Finds most relevant scholarship information  
 
 
-💬 Output
+#💬 Output
 
 Displays scholarship suggestions in chatbot format  
 Provides guidance on eligibility and application process  
 
 
-🚀 How to Run
+#🚀 How to Run
 
 
 Step 1: Install dependencies
@@ -84,14 +84,14 @@ Step 3: Run chatbot
 streamlit run app.py  
 
 
-⚠️ Limitations
+#⚠️ Limitations
 
 - Does not use deep learning or advanced AI models  
 - Depends on scraped data quality  
 - Works on keyword-based matching only  
 
 
-🔮 Future Improvements
+#🔮 Future Improvements
 
 - Add NLP/AI model (Transformers or LLM integration)  
 - Expand global scholarship database  
@@ -100,7 +100,7 @@ streamlit run app.py
 - Deploy on Streamlit Cloud / Hugging Face  
 
 
-👩‍💻 Author
+#👩‍💻 Author
 
 Student Project – AI Scholarship Finder Chatbot  
 Built for learning purposes:
