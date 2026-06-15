@@ -1,10 +1,13 @@
 🎓 AI Scholarship Finder Chatbot
 
 📌 Overview
+
 This project is an AI-powered Scholarship Finder Chatbot built using Python and Streamlit. It helps students discover scholarships, eligibility criteria, and application guidance using scraped and structured online data. The chatbot collects information from educational and scholarship websites and provides relevant answers based on user queries.
 
 🚀 Features
+
 🌐 Web scraping of scholarship opportunities from trusted sources  
+
 🎓 Scholarship recommendations based on user queries  
 💬 Interactive chatbot interface using Streamlit  
 ⚡ Fast keyword-based matching system  
@@ -72,11 +75,13 @@ User: Scholarships in USA for Pakistani students
 Bot: These scholarships are available for Pakistani students in USA...
 
 ⚠️ Limitations
+
 Does not use deep learning or advanced AI models  
 Depends on scraped data quality  
 Works on keyword-based matching only  
 
 🔮 Future Improvements
+
 🤖 Add NLP/AI model (Transformers or LLM integration)  
 🌍 Expand scholarship database globally  
 🔍 Improve smart search & filtering  
@@ -84,6 +89,7 @@ Works on keyword-based matching only
 🚀 Deploy on Streamlit Cloud / Hugging Face  
 
 👩‍💻 Author
+
 AI Student Project  
 Built for learning purposes:
 Python Programming  
