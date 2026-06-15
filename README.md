@@ -1,3 +1,6 @@
+🎓 AI Scholarship Finder Chatbot
+
+
 📌 Overview
 
 This project is an AI-based Scholarship Finder Chatbot built using Python and Streamlit.  
